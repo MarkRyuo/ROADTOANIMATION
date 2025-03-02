@@ -6,7 +6,9 @@ main {
   width: 50vw;
   height: 40vh;
 
-  
+  display: flex;
+  justify-content: center;
+  align-self: ;
 }
 
 
